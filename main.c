@@ -11,7 +11,6 @@ int main()
     float x, y, z;
     
     
-    
     printf("\nx=");
     scanf("%f", &x);
     
