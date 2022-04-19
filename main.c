@@ -10,10 +10,7 @@ int main()
     
     float x, y, z;
     
-    printf("\nЛабораторная работа №1");
-    printf("\nВариант №3");
-    printf("\nПИ.1-21-1");
-    printf("\nБрянский Никита");
+    
     
     printf("\nx=");
     scanf("%f", &x);
